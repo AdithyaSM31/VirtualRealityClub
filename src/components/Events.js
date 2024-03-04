@@ -132,10 +132,10 @@ const RoadMapSlider = () => {
                     <span className="icon" />
                     <span className="Event">Event 07</span>
                     <div className="item_in">
-                      <p className="date">January 2024</p>
-                      <h3 className="title">Upcoming</h3>
+                      <p className="date">February 26, 2024</p>
+                      <h3 className="title">EnVision</h3>
                       <p className="desc">
-                        Stay Tuned!
+                        Architecture of the Ultimate Thetre. Join us while we envision the future!
                         <Link href="/">
                           <a className="metaportal_fn_button">
                             <span>View more</span>
